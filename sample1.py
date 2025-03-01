@@ -2,7 +2,7 @@ add(a, b):  #Implement by using parameterized function
   return a+b
 
 subtract(): #Implement by using parameterized function
-a-b
+  a-b
   pass
 
 multiply(a, b):
